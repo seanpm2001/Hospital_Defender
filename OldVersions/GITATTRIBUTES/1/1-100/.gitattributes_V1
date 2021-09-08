@@ -1,0 +1,56 @@
+# Start of script
+# .gitattributes
+# This file defines what languages can show up in the GitHub linguist menu (the menu that tells you what percentage each language is using up on this project.
+# Some non-programming languages must be included manually with this file. Want to create your own? Do something similar to what is done here, and name the file
+# .gitattributes
+# and nothing else, no characters before, no characters after
+# Start of linguist script
+# HTML (Duplicate, as it is already detected by GitHub Linguist by default)
+*.htm linguist-detectable=true
+*.htm linguist-documentation=false
+*.html linguist-detectable=true
+*.html linguist-documentation=false
+*.mhtm linguist-detectable=true
+*.mhtm linguist-documentation=false
+*.mhtml linguist-detectable=true
+*.mhtml linguist-documentation=false
+*.xhtm linguist-detectable=true
+*.xhtm linguist-documentation=false
+*.xhtml linguist-detectable=true
+*.xhtml linguist-documentation=false
+# Shell
+*.sh linguist-detectable=true
+*.sh linguist-documentation=false
+# C
+*.c linguist-detectable=true
+*.c linguist-documentation=false
+*.h linguist-detectable=true
+*.h linguist-documentation=false
+# Python
+*.py linguist-detectable=true
+*.py linguist-documentation=false
+# Assembly
+*.asm linguist-detectable=true
+*.asm linguist-documentation=false
+# YAML
+*.yml linguist-detectable=false
+*.yml linguist-documentation=false
+*.yaml linguist-detectable=false
+*.yaml linguist-documentation=false
+# Markdown
+*.md linguist-detectable=false
+*.md linguist-documentation=false
+*.mkd linguist-detectable=false
+*.mkd linguist-documentation=false
+*.markdown linguist-detectable=false
+*.markdown linguist-documentation=false
+# Makefile (GNU Make)
+# Do not include, as it is not needed to be shown
+*.mk linguist-detectable=false
+*.mk linguist-documentation=false
+# End of linguist script
+# File info
+# File type: gitattributes file (.gitattributes)
+# File version: 1 (Wednesday, 2021 September 8th at 4:49 pm)
+# Line count (including blank lines and compiler line): 57
+# End of script
