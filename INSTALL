@@ -1,0 +1,36 @@
+---
+Installing this Medical project by @seanpm2001
+---
+
+<!--
+
+This project currently can't be installed, as it is not developed enough yet.
+
+If you want to load the web pages, you will need to have an HTML5 framework installed (version 5.0 or higher) and the packages for any programming languages included.
+
+The current included languages include:
+
+QML 2.2 or higher
+
+Python 3.0 or higher
+
+C (1970 or later)
+
+Assembly (1981 or later)
+
+Makefile/GNU Make (any stable version)
+
+If you want to view the image files, the majority of files are in JPG format. Make sure your computer can handle images of 2560x1440/2560x1080 resolution well, and that your computer can handle JPG files.
+
+Some image files are in other formats, such as SVG, and PNG. You will need support for viewing these files to view these files.
+
+Some included files are in Markdown format (*.md) for best viewing, you should use a markdown viewer/markdown editor.
+
+Some included files are in PDF format. They should be opened with a document viewer capable of handling PDF documents.
+!-->
+
+Install instructions need to be added manually.
+
+---
+Install instructions file version: 1 (Monday, August 23rd 2021 at 6:31 pm)
+---
